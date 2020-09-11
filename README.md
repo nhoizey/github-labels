@@ -16,7 +16,6 @@ Useful to check what will be done before actually doing it, and change configura
 
 ```bash
 ./dry-run.sh images-responsiver
-<repo>
 ```
 
 ## Run
