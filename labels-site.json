@@ -1,0 +1,98 @@
+[
+    {
+        "name": "feature: UX (User eXperience) 🤹‍♂️",
+        "color": "eeddcc",
+        "aliases": [
+            "ux",
+            "type: UX (User eXperience) 🤹‍♂️"
+        ]
+    },
+    {
+        "name": "feature: DX (Developer eXperience) 👨‍💻",
+        "color": "eeddcc",
+        "aliases": [
+            "dx",
+            "type: DX (Developer eXperience) 👨‍💻"
+        ]
+    },
+    {
+        "name": "feature: AX (Author eXperience) ✍️",
+        "color": "eeddcc",
+        "aliases": [
+            "ax",
+            "type: AX (Author eXperience) ✍️"
+        ]
+    },
+    {
+        "name": "feature: content 🗂",
+        "color": "cceeff",
+        "aliases": [
+            "content"
+        ]
+    },
+    {
+        "name": "feature: graphic design 🎨",
+        "color": "eeddcc",
+        "aliases": [
+            "design",
+            "Type: design",
+            "type: graphic design 🎨"
+        ]
+    },
+    {
+        "name": "feature: offline 📶",
+        "color": "cceeff",
+        "aliases": [
+            "offline"
+        ]
+    },
+    {
+        "name": "feature: search 🕵️‍♂️",
+        "color": "cceeff",
+        "aliases": [
+            "search"
+        ]
+    },
+    {
+        "name": "feature: SEO 🔎",
+        "color": "cceeff",
+        "aliases": [
+            "SEO"
+        ]
+    },
+    {
+        "name": "feature: WebPerf 🏎",
+        "color": "cceeff",
+        "aliases": [
+            "webperf"
+        ]
+    },
+    {
+        "name": "feature: webmention 💭",
+        "color": "cceeff",
+        "aliases": [
+            "webmention"
+        ]
+    },
+    {
+        "name": "environment: desktop 🖥",
+        "color": "ccaadd",
+        "aliases": [
+            "Client: desktop browser"
+        ]
+    },
+    {
+        "name": "environment: mobile 📱",
+        "color": "ccaadd",
+        "aliases": [
+            "Client: mobile browser"
+        ]
+    },
+    {
+        "name": "automerge 🤞",
+        "color": "d93f0b",
+        "aliases": [
+            "automerge"
+        ]
+    }
+]

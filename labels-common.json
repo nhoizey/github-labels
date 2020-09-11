@@ -1,0 +1,172 @@
+[
+    {
+        "name": "type: bug 🐛",
+        "color": "ffaa66",
+        "aliases": [
+            "bug"
+        ]
+    },
+    {
+        "name": "type: breaking 💔",
+        "color": "ffaa66",
+        "aliases": [
+            "breaking",
+            "breaking-change"
+        ]
+    },
+    {
+        "name": "type: security 💣",
+        "color": "ee0701",
+        "aliases": [
+            "security"
+        ]
+    },
+    {
+        "name": "type: maintenance 👷‍♂️",
+        "color": "eeddcc",
+        "aliases": [
+            "maintenance",
+            "refactor",
+            "testing",
+            "test"
+        ]
+    },
+    {
+        "name": "type: enhancement 🧗‍♂️",
+        "color": "eeddcc",
+        "aliases": [
+            "enhancement",
+            "feature"
+        ]
+    },
+    {
+        "name": "type: question ❓",
+        "color": "eeddcc",
+        "aliases": [
+            "question"
+        ]
+    },
+    {
+        "name": "type: discussion 💬",
+        "color": "eeddcc",
+        "aliases": [
+            "discussion",
+            "To be discussed"
+        ]
+    },
+    {
+        "name": "feature: documentation 📑",
+        "color": "eeddcc",
+        "aliases": [
+            "documentation",
+            "type: documentation 📑"
+        ]
+    },
+    {
+        "name": "feature: marketing 📢",
+        "color": "eeddcc",
+        "aliases": [
+            "marketing",
+            "type: marketing 📢"
+        ]
+    },
+    {
+        "name": "type: dependencies 🔗",
+        "color": "eeddcc",
+        "aliases": [
+            "dependencies",
+            "type: dependencies 🧷"
+        ]
+    },
+    {
+        "name": "priority: low 🟢",
+        "color": "66dd66"
+    },
+    {
+        "name": "priority: medium 🟡",
+        "color": "ffcc66",
+        "aliases": [
+            "Issue priority: normal"
+        ]
+    },
+    {
+        "name": "priority: high 🟠",
+        "color": "ffaa66",
+        "aliases": [
+            "important",
+            "Issue priority: important"
+        ]
+    },
+    {
+        "name": "priority: critical 🔴",
+        "color": "ff6666",
+        "aliases": [
+            "critical",
+            "Issue priority: blocker"
+        ]
+    },
+    {
+        "name": "good starter issue 🐣",
+        "color": "bfe5bf",
+        "aliases": [
+            "beginner-friendly",
+            "beginner",
+            "good-starter-issue",
+            "starter-issue",
+            "good first issue",
+            "status: good starter issue 🐣"
+        ]
+    },
+    {
+        "name": "help welcome 🙏",
+        "color": "bfe5bf",
+        "aliases": [
+            "help wanted",
+            "status: help wanted 🙏"
+        ]
+    },
+    {
+        "name": "status: wontfix 🙅‍♂️",
+        "color": "cccccc",
+        "aliases": [
+            "wontfix",
+            "wont-fix",
+            "Won't fix"
+        ]
+    },
+    {
+        "name": "type: invalid ❌",
+        "color": "e6e6e6",
+        "aliases": [
+            "invalid"
+        ]
+    },
+    {
+        "name": "status: duplicate 👯‍♂️",
+        "color": "cccccc",
+        "aliases": [
+            "duplicate"
+        ]
+    },
+    {
+        "name": "status: blocked 🛑",
+        "color": "ffaa66",
+        "aliases": [
+            "blocked"
+        ]
+    },
+    {
+        "name": "status: inactive 💤",
+        "color": "ffaa66",
+        "aliases": [
+            "Inactive"
+        ]
+    },
+    {
+        "name": "automerge 🤞",
+        "color": "d93f0b",
+        "aliases": [
+            "automerge"
+        ]
+    }
+]
