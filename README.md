@@ -4,18 +4,23 @@ Using Financial Times' [github-label-sync](https://github.com/Financial-Times/gi
 
 ## Access token
 
-Generate an [access token here](https://github.com/settings/tokens) with the `repo` scope.
+Generate an [access token here](https://github.com/settings/tokens) with the `repo` scope and add it to a local `.env` file:
+
+```env
+GITHUB_ACCESS_TOKEN=<your-access-token>
+```
 
 ## Dry run
 
 Useful to check what will be done before actually doing it, and change configuration (adding aliases) if needed.
 
 ```bash
-github-label-sync --access-token <your-access-token> --dry-run --allow-added-labels <account>/<repo>
+./dry-run.sh images-responsiver
+<repo>
 ```
 
 ## Run
 
 ```bash
-github-label-sync --access-token <your-access-token> --allow-added-labels <account>/<repo>
+./run.sh images-responsiver
 ```
