@@ -1,15 +1,23 @@
 [
     {
         "name": "feature: UX (User eXperience) 🤹‍♂️",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "ux",
             "type: UX (User eXperience) 🤹‍♂️"
         ]
     },
     {
+        "name": "feature: accessibility (a11y) ♿️",
+        "color": "cceeff",
+        "aliases": [
+            "accessibility",
+            "a11y"
+        ]
+    },
+    {
         "name": "feature: DX (Developer eXperience) 👨‍💻",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "dx",
             "type: DX (Developer eXperience) 👨‍💻"
@@ -17,7 +25,7 @@
     },
     {
         "name": "feature: AX (Author eXperience) ✍️",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "ax",
             "type: AX (Author eXperience) ✍️"
@@ -32,10 +40,11 @@
     },
     {
         "name": "feature: graphic design 🎨",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "design",
             "Type: design",
+            "type: design 🎨",
             "type: graphic design 🎨"
         ]
     },
@@ -55,6 +64,13 @@
     },
     {
         "name": "feature: SEO 🔎",
+        "color": "cceeff",
+        "aliases": [
+            "SEO"
+        ]
+    },
+    {
+        "name": "feature: POSSE 📡",
         "color": "cceeff",
         "aliases": [
             "SEO"
@@ -86,13 +102,6 @@
         "color": "ccaadd",
         "aliases": [
             "Client: mobile browser"
-        ]
-    },
-    {
-        "name": "automerge 🤞",
-        "color": "d93f0b",
-        "aliases": [
-            "automerge"
         ]
     }
 ]

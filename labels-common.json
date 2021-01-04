@@ -1,14 +1,14 @@
 [
     {
         "name": "type: bug 🐛",
-        "color": "ffaa66",
+        "color": "ddeebb",
         "aliases": [
             "bug"
         ]
     },
     {
         "name": "type: breaking 💔",
-        "color": "ffaa66",
+        "color": "ddeebb",
         "aliases": [
             "breaking",
             "breaking-change"
@@ -16,14 +16,14 @@
     },
     {
         "name": "type: security 💣",
-        "color": "ee0701",
+        "color": "ddeebb",
         "aliases": [
             "security"
         ]
     },
     {
         "name": "type: maintenance 👷‍♂️",
-        "color": "eeddcc",
+        "color": "ddeebb",
         "aliases": [
             "maintenance",
             "refactor",
@@ -33,7 +33,7 @@
     },
     {
         "name": "type: enhancement 🧗‍♂️",
-        "color": "eeddcc",
+        "color": "ddeebb",
         "aliases": [
             "enhancement",
             "feature"
@@ -41,22 +41,30 @@
     },
     {
         "name": "type: question ❓",
-        "color": "eeddcc",
+        "color": "ddeebb",
         "aliases": [
             "question"
         ]
     },
     {
         "name": "type: discussion 💬",
-        "color": "eeddcc",
+        "color": "ddeebb",
         "aliases": [
             "discussion",
             "To be discussed"
         ]
     },
     {
+        "name": "type: dependencies 🔗",
+        "color": "ddeebb",
+        "aliases": [
+            "dependencies",
+            "type: dependencies 🧷"
+        ]
+    },
+    {
         "name": "feature: documentation 📑",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "documentation",
             "type: documentation 📑"
@@ -64,18 +72,10 @@
     },
     {
         "name": "feature: marketing 📢",
-        "color": "eeddcc",
+        "color": "cceeff",
         "aliases": [
             "marketing",
             "type: marketing 📢"
-        ]
-    },
-    {
-        "name": "type: dependencies 🔗",
-        "color": "eeddcc",
-        "aliases": [
-            "dependencies",
-            "type: dependencies 🧷"
         ]
     },
     {
@@ -127,7 +127,7 @@
     },
     {
         "name": "status: wontfix 🙅‍♂️",
-        "color": "cccccc",
+        "color": "dddddd",
         "aliases": [
             "wontfix",
             "wont-fix",
@@ -136,28 +136,35 @@
     },
     {
         "name": "type: invalid ❌",
-        "color": "e6e6e6",
+        "color": "ddeebb",
         "aliases": [
             "invalid"
         ]
     },
     {
+        "name": "status: work in progress 🧰",
+        "color": "dddddd",
+        "aliases": [
+            "wip"
+        ]
+    },
+    {
         "name": "status: duplicate 👯‍♂️",
-        "color": "cccccc",
+        "color": "dddddd",
         "aliases": [
             "duplicate"
         ]
     },
     {
         "name": "status: blocked 🛑",
-        "color": "ffaa66",
+        "color": "dddddd",
         "aliases": [
             "blocked"
         ]
     },
     {
         "name": "status: inactive 💤",
-        "color": "ffaa66",
+        "color": "dddddd",
         "aliases": [
             "Inactive"
         ]
