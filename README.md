@@ -15,22 +15,22 @@ GITHUB_ACCESS_TOKEN=<your-access-token>
 Useful to check what will be done before actually doing it, and change configuration (adding aliases) if needed.
 
 ```bash
-./dry-run.sh <username>/<repo>
+./dry-run.sh <common|site> <username>/<repo>
 ```
 
 For example:
 
 ```bash
-./dry-run.sh nhoizey/images-responsiver
+./dry-run.sh common nhoizey/images-responsiver
 ```
 
 ## Run
 
 ```bash
-./run.sh <username>/<repo>
+./run.sh <common|site> <username>/<repo>
 ```
 
-## ⚠️ Run on ALL my repositories that are neither forks nor archived
+## ⚠️ Syn common labels on ALL my repositories that are neither forks nor archived
 
 ```bash
 ./run-all.sh
